@@ -1,0 +1,22 @@
+{
+	"block_number" 	: 0,
+	"date_time"	: "2018-05-18 20:01:23",
+	"previous_hash" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+
+	"file_size"	: 2947949834,
+	"zipped"	: true,
+	"zip-size"	: 28734934,
+	"file_hash"	: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+	"zip_hash"	: "94ebdfc93c38a7cbb15e09099b0e6666cec47e69a2ec0116f59df7a499d89a20",
+
+	"tags"		: {
+		"title" 	: "Blah",
+		"author"	: "John Snow",
+		"project" 	: "Be King",
+		"client"	: "McDonalds",
+
+		"server"	: "smeagol"
+		"server_ip"	: "10.20.30.40"
+
+	}
+}
